@@ -1,0 +1,12 @@
+{
+    "name": "nga-tc-plugins",
+    "owner": {
+          "name": "NGA-TC-Team",
+          "email": "nga-tc-team@example.com"
+    },
+    "metadata": {
+          "description": "NGA-TC-Team의 Claude Code 플러그인 마켓플레이스",
+          "version": "1.0.0"
+    },
+    "plugins": []
+}
