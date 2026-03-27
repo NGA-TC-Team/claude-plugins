@@ -1,0 +1,9 @@
+{
+  "name": "nextgenai-ax-consulting",
+  "version": "0.1.0",
+  "description": "NextGenAI AX 컨설팅 방법론 플러그인. 진단→설계→빌드→확산 4단계 프레임워크에 따라 일관된 품질의 컨설팅 산출물을 생성합니다.",
+  "author": {
+    "name": "NextGenAI"
+  },
+  "keywords": ["ax", "consulting", "ai-transformation", "nextgenai"]
+}
